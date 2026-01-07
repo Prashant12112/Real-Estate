@@ -92,7 +92,16 @@ cd gurgaon-real-estate-intelligence
 ```bash
 python -m venv venv && source venv/bin/activate   # Windows: venv\Scripts\activate
 
-## 📦 Install Dependencies
+## 📦 Requirements & Installation
+
+streamlit==1.52.2
+pandas==2.3.3
+plotly==6.5.0
+numpy==2.4.0
+wordcloud==1.9.5
+seaborn==0.13.2
+matplotlib==3.10.8
+scikit-learn==1.6.1
 
 ```bash
 pip install -r requirements.txt
