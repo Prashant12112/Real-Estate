@@ -1,7 +1,17 @@
 # 🏠 Gurgaon Real Estate Intelligence Platform
 
-![Home Page](images/home.png)
-![Analytics Geo Map](images/analytics.png)
+## 🖼️ Project Screenshots
+
+### 🔍 Analytics Geomap
+![Analytics Geomap](website_images/Analysis_1.png)
+
+### 🏠 Home Page
+![Home Page](website_images/Home.png)
+
+### 📈 Price Prediction
+![Price Prediction](website_images/price_prediction_1.png)
+
+
 
 A comprehensive **Real Estate Analytics, Price Prediction, and Apartment Recommendation Platform** for **Gurgaon**, built using **Machine Learning, Data Analysis, and Streamlit**.
 
