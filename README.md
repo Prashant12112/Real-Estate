@@ -1,15 +1,5 @@
 # 🏠 Gurgaon Real Estate Intelligence Platform
 
-## 🖼️ Project Screenshots
-
-### 🔍 Analytics Geomap
-![Analytics Geomap](website_images/Analysis_1.png)
-
-### 🏠 Home Page
-![Home Page](website_images/Home.png)
-
-### 📈 Price Prediction
-![Price Prediction](website_images/price_prediction_1.png)
 
 
 
@@ -69,6 +59,17 @@ Predicts an estimated **price range** based on:
 - Nearby apartment suggestions  
 
 ---
+## 🖼️ Project Screenshots
+
+### 🔍 Analytics Geomap
+![Analytics Geomap](website_images/Analysis_1.png)
+
+### 🏠 Home Page
+![Home Page](website_images/Home.png)
+
+### 📈 Price Prediction
+![Price Prediction](website_images/price_prediction_1.png)
+
 
 ## 🛠️ Tech Stack
 
