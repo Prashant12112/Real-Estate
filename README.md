@@ -11,10 +11,7 @@ This project helps users to:
 - Visualize sector-wise prices on interactive maps
 - Get apartment recommendations based on location and preferences
 
-🔗 **Live Demo:**  
-http://172.50.2.91:8501  
 
----
 
 ## 📌 Project Overview
 
